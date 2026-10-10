@@ -1,0 +1,7 @@
+   __pycache__/
+   *.pyc
+   data/
+   results/
+   figures/
+   .venv/
+   .ipynb_checkpoints/
